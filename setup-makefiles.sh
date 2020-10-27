@@ -18,7 +18,7 @@
 
 set -e
 
-DEVICE=poplar_dsds
+DEVICE=maple_dsds
 VENDOR=sony
 
 INITIAL_COPYRIGHT_YEAR=2017
